@@ -1,0 +1,12 @@
+.container{
+    background-color: black;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+div{
+    background-color:pink;
+    border: 1px solid black;
+    padding:5px;
+    font-size:20px;
+    text-align: center;
+}
